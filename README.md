@@ -11,4 +11,3 @@ L’obiettivo è capire:
 - quanto conta davvero arrivare sul podio  
 - come la memoria musicale si evolve con gli ascolti digitali  
 
-https://datastudio.google.com/s/ncDW8NJwKPA
