@@ -4,8 +4,6 @@
 
 
 
-https://datastudio.google.com/s/ncDW8NJwKPA
-
 Questo progetto analizza **724 canzoni del Festival di Sanremo (1952–2023)** per le quali è stato possibile associare un dato di popolarità Spotify.
 
 L’obiettivo è capire:
@@ -13,3 +11,4 @@ L’obiettivo è capire:
 - quanto conta davvero arrivare sul podio  
 - come la memoria musicale si evolve con gli ascolti digitali  
 
+https://datastudio.google.com/s/ncDW8NJwKPA
