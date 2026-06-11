@@ -1,6 +1,6 @@
-# Sanremo: ciò che resta – Analisi dei brani dal 1952 al 2023
+# Sanremo: ciò che resta 
 
-[![Apri il Report Looker Studio](https://img.shields.io/badge/Apri%20il%20Report-Looker%20Studio-blue?style=for-the-badge)](https://datastudio.google.com/s/sgdUbpV1o7I)
+[![Apri il Report](https://img.shields.io/badge/REPORT-Looker%20Studio-A8F0D1?style=for-the-badge&logo=googleanalytics&logoColor=1F2A38&labelColor=1F2A38)](https://datastudio.google.com/s/sgdUbpV1o7I)
 
 Questo progetto analizza **724 canzoni del Festival di Sanremo (1952–2023)** per le quali è stato possibile associare un dato di popolarità Spotify.
 
